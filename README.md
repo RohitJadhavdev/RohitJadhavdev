@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**RohitJadhavdev/RohitJadhavdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend & Full Stack Developer  
+💻 Java | Spring Boot | Python | MySQL  
+🤖 Interested in AI Integration  
+📚 Currently building production-level backend systems  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- Java
+- C++
+- Python
+- Spring Boot
+- REST APIs
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+- Backend Architecture
+- JWT Authentication
+- AI Integration in Web Applications
+
+## 📫 Contact
+Email: rohitjad.dev@gmail.com
